@@ -7,3 +7,4 @@ public class Ternary {
         System.out.println("Largest of 2 numbers:"+largestNumber);
     }
 }
+        
